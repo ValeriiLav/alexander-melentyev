@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working as a Developer at MegaFon
 - 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on Rocket Science project
 
 <!--
 **alexander-melentyev/alexander-melentyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
