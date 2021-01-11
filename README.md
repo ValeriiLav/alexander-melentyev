@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Developer at MegaFon
+- 🔭 I’m currently working as a Developer at @Nexign
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on Rocket Science project
 
