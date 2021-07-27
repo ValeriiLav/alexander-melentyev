@@ -10,5 +10,5 @@ Plug 'morhetz/gruvbox'
 call plug#end()
 " plug end
 
-set background=dark " Setting dark mode
+set background=dark
 colorscheme gruvbox
