@@ -8,7 +8,6 @@ endif
 call plug#begin()
 Plug 'fatih/vim-go', { 'do': ':GoInstallBinaries' }
 Plug 'morhetz/gruvbox'
-Plug 'preservim/nerdtree'
 Plug 'rust-lang/rust.vim'
 call plug#end()
 
