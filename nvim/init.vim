@@ -6,7 +6,6 @@ if empty(glob('~/.config/nvim/autoload/plug.vim'))
 endif
 
 call plug#begin()
-Plug 'fatih/vim-go', { 'do': ':GoInstallBinaries' }
 Plug 'morhetz/gruvbox'
 Plug 'rust-lang/rust.vim'
 call plug#end()
